@@ -1,0 +1,9 @@
+mvn install:install-file -Dfile=C:\Users\samsung\workspace\Styles Projects\campones-theme\pf_theme\campones-theme-1.0-SNAPSHOT.jar -DgroupId=campones -DartifactId=campones-theme -Dversion=1.0 -Dpackaging=jar
+
+
+
+<dependency>                                        
+ <groupId>campones</groupId>                                         
+ <artifactId>campones-theme</artifactId>                                         
+ <version>1.0-SNAPSHOT</version>                                         
+</dependency> 
