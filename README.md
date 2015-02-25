@@ -2,6 +2,8 @@
 Tema Camponês para o primefaces
 Desenvolvido sobre o Aristo theme do primefaces e contendo também os ícones do bootstrap.
 
+Para informações de uso dos ícones do bootstrap (glyphicons), acessar: ver: https://github.com/williamazevedodepaula/primefaces-bootstrap-icons
+
 
 <h3>Compilação</h3>
 
