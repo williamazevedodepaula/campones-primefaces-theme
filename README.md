@@ -13,7 +13,7 @@ Tema Camponês para o primefaces, contendo também os ícones do bootstrap
     <dependency>                                        
      <groupId>campones</groupId>                                         
      <artifactId>campones-theme</artifactId>                                         
-     <version>1.0-SNAPSHOT</version>                                         
+     <version>{version}</version>                                         
     </dependency> 
 
 3) Incluir o tema no web.xml:
@@ -22,3 +22,11 @@ Tema Camponês para o primefaces, contendo também os ícones do bootstrap
         <param-name>primefaces.THEME</param-name>
         <param-value>campones</param-value>
     </context-param>
+    
+
+<h3>Compilação</h3>
+
+Para gerar o .jar, executar o comando a seguir, um diretório acima da pasta campones-theme/pf_theme:
+
+    $ jar -cvf campones-theme-1.0-SNAPSHOT.jar .
+    
