@@ -9,7 +9,7 @@ Para informações de uso dos ícones do bootstrap (glyphicons), acessar: ver: h
 
 Para gerar o .jar, executar o comando a seguir, um diretório acima da pasta campones-theme/pf_theme:
 
-    $ jar -cvf campones-theme-1.0-SNAPSHOT.jar .
+    $ jar -cvf campones-theme-{version}.jar .
 
 <h3>Utilização</h3>
 
