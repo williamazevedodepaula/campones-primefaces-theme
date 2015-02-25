@@ -15,7 +15,7 @@ Para gerar o .jar, executar o comando a seguir, um diretório acima da pasta cam
 
 1) Instalar o campones-theme-{version}.jar no repositório local do maven:
 
-    mvn install:install-file -Dfile=C:\Users\samsung\workspace\Styles Projects\campones-theme\pf_theme\campones-theme-{version}.jar -DgroupId=campones -DartifactId=campones-theme -Dversion=1.0 -Dpackaging=jar
+    mvn install:install-file -Dfile=C:\Users\samsung\workspace\Styles Projects\campones-theme\pf_theme\campones-theme-{version}.jar -DgroupId=campones -DartifactId=campones-theme -Dversion={version} -Dpackaging=jar
 
 
 2) Incluir a dependência no pom.xml (maven):
