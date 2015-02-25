@@ -1,5 +1,13 @@
 # campones-primefaces-theme
-Tema Camponês para o primefaces, contendo também os ícones do bootstrap
+Tema Camponês para o primefaces
+Desenvolvido sobre o Aristo theme do primefaces e contendo também os ícones do bootstrap.
+
+
+<h3>Compilação</h3>
+
+Para gerar o .jar, executar o comando a seguir, um diretório acima da pasta campones-theme/pf_theme:
+
+    $ jar -cvf campones-theme-1.0-SNAPSHOT.jar .
 
 <h3>Utilização</h3>
 
@@ -24,9 +32,4 @@ Tema Camponês para o primefaces, contendo também os ícones do bootstrap
     </context-param>
     
 
-<h3>Compilação</h3>
-
-Para gerar o .jar, executar o comando a seguir, um diretório acima da pasta campones-theme/pf_theme:
-
-    $ jar -cvf campones-theme-1.0-SNAPSHOT.jar .
     
